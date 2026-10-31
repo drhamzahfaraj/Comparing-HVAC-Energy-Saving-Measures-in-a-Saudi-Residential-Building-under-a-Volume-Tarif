@@ -310,10 +310,6 @@ repository:
 | Manuscript (single-file LaTeX, references, PDF). Appendices: A nomenclature; B proofs; C passive zones; D full perfect-foresight benchmark; E geometry, list of rooms (areas, windows, units, gain factors) and weather with ground temperature; F formal definitions and running examples; G validation details; H full sensitivity analysis and pre-cooling robustness; I uncertainty analysis | `paper/` |
 | Tests | `tests/` |
 
-## Use of generative AI
-Claude (Anthropic) was used to assist with code development, structuring and language editing. All model design,
-results, validation and interpretation were carried out without it, and the author takes full responsibility for
-the content.
 
 ## Licence
 MIT, see [`LICENSE`](LICENSE).
